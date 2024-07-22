@@ -15,9 +15,9 @@
 - Studying Deep Learning and working in AI/ML projects
 - Competitive Programming in Java and Python
 - Possess comprehensive knowledge in API project development
-- Exploring UI/UX design
+- Enjoy exploring concepts about UI/UX design
 - Acquiring skills in App Development and Computer Vision
-- Contributed to code solutions on LeetCode
+- Contributed to code solutions on LeetCode, Geek for Geeks
 - Open to discussions and assistance within my areas of expertise
 
 ## Languages I use:
