@@ -4,7 +4,6 @@
 <h1 align="center">Greetings! I'm Tris, a full-stack developer from Myanmar. </h1>
 <h3 align="center">Software Engineer | Technical Content Writer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/min-myint-mo-soe-1086bb2a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: minmyintmosoe@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
