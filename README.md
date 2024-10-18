@@ -28,6 +28,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
 ![LUA](https://img.shields.io/badge/-LUA-000000?style=flat&logo=LUA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=LUA)
+
 
 
 ## Technologies I know:
