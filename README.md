@@ -59,3 +59,14 @@ I am always open to chatting about tech or helping out with things I know. Feel 
   
   <img src="https://github.com/TrisTheKitten/TrisTheKitten/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar">
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" height="150px" />
+  
+  <br>
+  
+  <img src="https://github.com/TrisTheKitten/TrisTheKitten/blob/main/metrics.plugin.isocalendar.svg" height="180" alt="Isometric Commit Calendar">
+  
+  <img src="https://github.com/TrisTheKitten/TrisTheKitten/blob/main/metrics.plugin.languages.svg" height="180" alt="Language Stats">
+</div>
