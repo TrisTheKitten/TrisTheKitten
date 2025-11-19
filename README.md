@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tris.;Full-Stack+Developer.;Machine+Learning+Enthusiast.;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tris.;I-Love Building+Apps.;I+also+do+UI+UX.;Welcome+to+my+profile<3" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Based in Thailand | from Myanmar</h3>
@@ -67,8 +67,8 @@ I am always open to chatting about tech or helping out with things I know. Feel 
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=dracula" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=dracula" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&theme=dracula" height="150px" />
   
   <br><br>
   
