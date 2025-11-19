@@ -1,9 +1,16 @@
-<p align="center">
- <a href = "mailto: minmyintmosoe@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
-<hr>
-<h1 align="center">Hi there! I'm Tris.</h1>
-<h3 align="center">Full-Stack Developer from Myanmar</h3>
+<div align="center">
+  <a href="mailto:minmyintmosoe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tris.;Full-Stack+Developer.;Machine+Learning+Enthusiast.;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Based in Thailand | from Myanmar</h3>
 <p align="center">
   Software Engineer | Technical Content Writer
 </p>
@@ -18,7 +25,7 @@ Right now, my main focus is **Machine Learning and Data Analytics**. I am workin
 
 I am also learning:
 - **App Development** and **Computer Vision** to expand my skillset.
-- also putting more effort on **UX programs** because I enjoy making things look good and easy to use.
+- Putting more effort into **UX programs** because I enjoy making things look good and easy to use.
 
 I am always open to chatting about tech or helping out with things I know. Feel free to reach out!
 
@@ -26,35 +33,46 @@ I am always open to chatting about tech or helping out with things I know. Feel 
 
 ## My Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![LUA](https://img.shields.io/badge/-LUA-000000?style=flat&logo=LUA)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express)
+<div align="center">
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+</div>
 
 <br>
 
 ## Tools & Frameworks
 
-![Git](https://img.shields.io/badge/git-EE4C2C?style=for-the-badge&logo=git&logoColor=222831)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=222831)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=222831)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=222831)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=222831)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=222831)
+<div align="center">
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" height="150px" />
   
+  <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/main/metrics.base.svg" alt="General Stats" width="100%">
+
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
   <br><br>
   
   <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%">
