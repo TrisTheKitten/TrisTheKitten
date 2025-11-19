@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tris.;I-Love Building+Apps.;I+also+do+UI+UX.;Welcome+to+my+profile<3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tris.;I-Love Building+Apps.;I+also+do+UI+UX.;Welcome+to+my+profile%3C3" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Based in Thailand | from Myanmar</h3>
