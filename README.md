@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
  <a href = "mailto: minmyintmosoe@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr>
@@ -51,4 +51,11 @@ I am always open to chatting about tech or helping out with things I know. Feel 
 
 <br>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" height="150px" />
+  
+  <br>
+  
+  <img src="https://github.com/TrisTheKitten/TrisTheKitten/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar">
+</div>
