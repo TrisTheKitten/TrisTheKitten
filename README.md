@@ -36,7 +36,7 @@ I am always open to chatting about tech or helping out with things I know. Feel 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,12 +67,9 @@ I am always open to chatting about tech or helping out with things I know. Feel 
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/main/metrics.base.svg" alt="General Stats" width="100%">
-
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TrisTheKitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=dracula" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrisTheKitten&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=dracula" height="150px" />
   
-  <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
   <br><br>
   
   <img src="https://raw.githubusercontent.com/TrisTheKitten/TrisTheKitten/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%">
